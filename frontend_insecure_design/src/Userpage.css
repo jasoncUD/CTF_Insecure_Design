@@ -1,0 +1,41 @@
+/* UserPage Styles */
+.user-page {
+    background-color: #f0f0f0; /* Light gray background */
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    color: #333; /* Dark gray text */
+  }
+  
+  .user-info-card {
+    background: #fff; /* White card */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    text-align: left;
+  }
+  
+  .user-info-card h1 {
+    font-size: 1.8em;
+    color: #007bff; /* Blue header */
+    margin-bottom: 15px;
+  }
+  
+  .user-details p {
+    margin: 10px 0;
+    line-height: 1.6;
+  }
+  
+  .user-details strong {
+    color: #555; /* Slightly darker for emphasis */
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+  }
+  
