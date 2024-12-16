@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CTF_Insecure_Design/static/css/main.75e3c6be.css",
+    "main.js": "/CTF_Insecure_Design/static/js/main.e57a2bef.js",
+    "static/js/136.6ba08c15.chunk.js": "/CTF_Insecure_Design/static/js/136.6ba08c15.chunk.js",
+    "index.html": "/CTF_Insecure_Design/index.html",
+    "main.75e3c6be.css.map": "/CTF_Insecure_Design/static/css/main.75e3c6be.css.map",
+    "main.e57a2bef.js.map": "/CTF_Insecure_Design/static/js/main.e57a2bef.js.map",
+    "136.6ba08c15.chunk.js.map": "/CTF_Insecure_Design/static/js/136.6ba08c15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e3c6be.css",
+    "static/js/main.e57a2bef.js"
+  ]
+}
